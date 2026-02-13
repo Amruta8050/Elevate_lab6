@@ -121,3 +121,5 @@ The model identifies the most impactful factors influencing housing prices.
 ---
 
 #Outputs
+<img width="786" height="534" alt="Image" src="https://github.com/user-attachments/assets/608a28c4-c289-407b-8a9b-0546560cd471" />
+<img width="981" height="702" alt="Image" src="https://github.com/user-attachments/assets/3a8fd512-7ba1-46a6-a209-d8e6f2964f55" />
