@@ -1,0 +1,13 @@
+Feature,Coefficient
+median_income,75167.77476624785
+total_bedrooms,43068.18184187043
+households,18382.196323733453
+housing_median_age,13889.866188563072
+ocean_proximity_ISLAND,2118.4375715424485
+ocean_proximity_NEAR OCEAN,1139.9055918672516
+ocean_proximity_NEAR BAY,-1621.7050178644604
+total_rooms,-13094.251162194743
+ocean_proximity_INLAND,-18506.095225086236
+population,-43403.43242731902
+longitude,-53826.64801649393
+latitude,-54415.69614449845
